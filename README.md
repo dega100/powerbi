@@ -1,2 +1,2 @@
 # powerbi
-powerbi projects
+различные проекты созданные на основе Power BI
